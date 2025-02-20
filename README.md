@@ -30,5 +30,6 @@ Used slicers and filters for better user interaction.
 ## Insights & Publishing
 Identified key insights on restaurant performance, pricing strategies, and customer behavior.
 ## Dashboard
-![Zomato Analysis](https://github.com/user-attachments/assets/39449b7f-59e6-432c-b97e-fd0adc57233b)
+![Zomato Analysis](https://github.com/user-attachments/assets/f6e0b421-562d-41b4-b932-1e6badc47217)
+
 
