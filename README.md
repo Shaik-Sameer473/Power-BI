@@ -31,5 +31,11 @@ Used slicers and filters for better user interaction.
 Identified key insights on restaurant performance, pricing strategies, and customer behavior.
 ## Dashboard
 ![Zomato Analysis](https://github.com/user-attachments/assets/f6e0b421-562d-41b4-b932-1e6badc47217)
-
-
+## Project Insight
+- Identified most popular cuisines based on order volume and customer ratings.
+- Analyzed ordering patterns based on time of day, cuisine type, and pricing.
+- Discovered that mid-range priced restaurants tend to have higher customer satisfaction.
+- Certain areas have higher restaurant density but lower ratings due to competition.
+- Suggested optimal pricing strategies for restaurants based on sales and rating trends.
+## Conclusion 
+The Zomato Data Analysis Project provided valuable insights into restaurant performance, customer preferences, and pricing strategies. By leveraging Power BI we identified top-performing cuisines, analyzed customer behavior, and evaluated the impact of price on ratings. They need to focus on Table bookings this are in low percentage of booking, online bookings are higher booking percentages. These findings can assist in optimizing restaurant strategies, improving customer satisfaction, and enhancing business growth. 
