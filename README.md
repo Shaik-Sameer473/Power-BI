@@ -1,2 +1,3 @@
-# Power-BI
-I developed a comprehensive project in Power BI, creating a dashboard to analyze the data. This process involved data cleaning, and data visualization.
+# Zomato-Data-Analysis (Intreactive Dashboard creation using Power-BI)
+##Project Objective
+Analyzed restaurant ratings, customer reviews, and sales trends using Power BI. Created interactive dashboards to derive insights on cuisine popularity, pricing strategies, and customer preferences.
